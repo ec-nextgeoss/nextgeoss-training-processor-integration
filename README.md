@@ -1,5 +1,7 @@
 # nextgeoss-training-processor-integration
-NextGEOSS second training - Topic 2 - Integration of your data processing algorithm onto the NextGEOSS Cloud platform
+NextGEOSS second training, Tuesday 11th September, Geneva
+
+Topic 2 - Integration of your data processing algorithm onto the NextGEOSS Cloud platform
 
 See the following tutorials:
 - https://gist.github.com/HerveCaumont/6d3479a4efafcca8acc45494dc77e449
